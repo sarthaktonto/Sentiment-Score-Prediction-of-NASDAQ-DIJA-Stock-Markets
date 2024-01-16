@@ -1,1 +1,1 @@
-
+The Sentiment Score Prediction project is designed to analyze and predict sentiment in news headlines related to two prominent stock markets, NASDAQ and DJIA (Dow Jones Industrial Average). Leveraging the advanced Word2Vec sentiment analysis technique, this project aims to provide insights into the prevailing sentiments within these financial markets. 
